@@ -12,5 +12,5 @@ def main(s,n):
     return s[-n::]
 n=4
 s="qwdfqwefg"
-print(main(s,n))
+print(main(s,n)) 
 

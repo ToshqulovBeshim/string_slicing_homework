@@ -9,5 +9,5 @@ def main(s,n):
     """
     return s[n::]
 n=4
-s="sdfgjhghdjuytb"
+s="sdfgjhghdjuytb" 
 print(main(s,n))

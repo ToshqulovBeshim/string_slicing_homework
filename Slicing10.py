@@ -9,7 +9,7 @@ def main(s,n,k):
         str: answer
     """
     return s[n:k:]
-n=3
+n=3 
 k=6
 s="sdfghjuytres"
 print(main(s,n,k))

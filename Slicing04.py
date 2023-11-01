@@ -10,4 +10,4 @@ def main(s,n):
     return s[0:n:1]
 n=2
 s="dfghjuyt"
-print(main(s,n))
+print(main(s,n)) 

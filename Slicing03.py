@@ -7,5 +7,5 @@ def main(s):
     """
     
     return s[1:-1:1]
-s="woiufhgfhvncm"
+s="woiufhgfhvncm" 
 print(main(s))

@@ -8,5 +8,5 @@ def main(s):
     """
     a= s[-1:-5:-1]
     return a[::-1]
-s="jeuixinxnuixux"
+s="jeuixinxnuixux" 
 print(main(s))
