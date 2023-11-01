@@ -5,4 +5,7 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    
+    return s[1:-1:1]
+s="woiufhgfhvncm"
+print(main(s))

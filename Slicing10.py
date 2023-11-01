@@ -8,4 +8,8 @@ def main(s,n,k):
     Returns:
         str: answer
     """
-    return
+    return s[n:k:]
+n=3
+k=6
+s="sdfghjuytres"
+print(main(s,n,k))

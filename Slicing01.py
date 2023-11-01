@@ -6,4 +6,10 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    a=""
+    for i in range(len(s)):
+        a+=s[i]+"   "
+    return a[0:10:2]
+
+s="codectbtbiun"
+print(main(s))

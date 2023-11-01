@@ -7,4 +7,10 @@ def main(s,n):
     Returns:
         str: answer
     """
-    return
+    
+    
+    return s[-n::]
+n=4
+s="qwdfqwefg"
+print(main(s,n))
+
